@@ -1,4 +1,4 @@
-POST {{host}}/sort/bubble
+POST {{host}}/sort/quick
 Content-Type: application/json
 
 [1, 6, 5, 2, 10, 1]
