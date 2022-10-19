@@ -1,0 +1,6 @@
+POST {{host}}/sort/bubble
+Content-Type: application/json
+
+[1, 6, 5, 2, 10, 1]
+
+###
